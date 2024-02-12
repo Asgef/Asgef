@@ -7,7 +7,7 @@
 - 🌱 My goal is to constantly improve my skills and publish my projects on GitHub.
 
 ## Contacts
-- +79116384435  \#  Before the first phone contact, please reach out to me via messenger apps.
+- 📞 Tel: +79116384435  \#  Before the first phone contact, please reach out to me via messenger apps.
 - 📧 Email: asgefes1@gmail.com
 - ✉️ Telegram: https://t.me/Asgef
 - 🌐 My website or portfolio: [My Portfolio](https://asgef.github.io)
