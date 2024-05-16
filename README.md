@@ -20,6 +20,15 @@
 
 If you have any questions or collaboration proposals, please feel free to contact me. 🚀
 
+## Languages and tools
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/django/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/_/eee" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/Ubuntu/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/Zsh/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/Postman/_/eee" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/Docker/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/postgreSQL/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/git/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/Ansible/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/Vagrant/_/eee" />   
+
+
+
 <!--
 **Asgef/Asgef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
