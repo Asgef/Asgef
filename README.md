@@ -16,7 +16,7 @@
 [![wakatime](https://wakatime.com/badge/user/018c4031-c37e-4bef-9e6c-859fe4594dc2.svg)](https://wakatime.com/@018c4031-c37e-4bef-9e6c-859fe4594dc2)
 
 ## Projects
-- 🚀 You can check out my [projects]([url](https://asgef.github.io) that I have completed.
+- 🚀 You can check out my [projects](https://asgef.github.io) that I have completed.
 
 If you have any questions or collaboration proposals, please feel free to contact me. 🚀
 
