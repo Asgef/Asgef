@@ -1,9 +1,8 @@
 # Hello, I'm Ivan Koltashev 👋
 
 ## About Me
-- 🎓 I'm studying on the Hexlet educational platform, specializing in Backend Development.
+- 🎓 I am graduate of the Hexlet  educational platform, specializing in Backend Development.
 - 💻 My technical skills include Python3, Object-Oriented Programming, working with Linux (CLI), basics of HTML/CSS, and Git.
-- 🔍 Currently, I'm in the learning phase and working on educational projects.
 - 🌱 My goal is to constantly improve my skills and publish my projects on GitHub.
 
 ## Contacts
