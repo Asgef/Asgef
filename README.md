@@ -1,14 +1,17 @@
 # Hello, I'm Ivan Koltashev 👋
 
 ## About Me
-- 🎓 I am graduate of the Hexlet  educational platform, specializing in Backend Development.
-- 💻 My technical skills include Python3, Object-Oriented Programming, working with Linux (CLI), basics of HTML/CSS, and Git.
+- 🎓 I am a graduate of the Hexlet educational platform, specializing in Backend Development.
+- 💻 My technical skills include Python 3, Object-Oriented Programming, working with Linux (CLI), basics of HTML/CSS, and Git.
 - 🌱 My goal is to constantly improve my skills and publish my projects on GitHub.
+- 🏢 I am currently working as a backend developer at **Эксперт Аудитор's**, a company focused on integrating AI technologies into various client-facing solutions — including voice agents, websites, chatbots, widgets, and telephony systems.
+- 🔗 Our GitHub organization: [EXAIEXAI on GitHub](https://github.com/EXAIEXAI)
+- 🌐 Company website: [https://ex-ai.ru](https://ex-ai.ru)
 
 ## Contacts
-- 📞 Tel: +79116384435  \#  Before the first phone contact, please reach out to me via messenger apps.
+- 📞 Tel: +7 911 638-44-35  — _Before the first phone contact, please reach out via messenger apps._
 - 📧 Email: asgefes1@gmail.com
-- ✉️ Telegram: https://t.me/Asgef
+- ✉️ Telegram: [@Asgef](https://t.me/Asgef)
 - 🌐 My website or portfolio: [My Portfolio](https://asgef.github.io)
 
 ## Statistics
@@ -19,26 +22,9 @@
 
 If you have any questions or collaboration proposals, please feel free to contact me. 🚀
 
-## Languages and tools
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/django/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/_/eee" />
+## Languages and Tools
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/django/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/_/eee" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/Linux/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/Ubuntu/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/Zsh/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/Postman/_/eee" />    <img height="32" width="32" src="https://cdn.simpleicons.org/dbeaver/_/eee" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Linux/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Ubuntu/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Zsh/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Postman/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/dbeaver/_/eee" />
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/Docker/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/postgreSQL/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/git/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/Ansible/_/eee" />   <img height="32" width="32" src="https://cdn.simpleicons.org/Vagrant/_/eee" />   
-
-
-
-<!--
-**Asgef/Asgef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="32" width="32" src="https://cdn.simpleicons.org/Docker/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/postgreSQL/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Ansible/_/eee" /> <img height="32" width="32" src="https://cdn.simpleicons.org/Vagrant/_/eee" />
