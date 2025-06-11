@@ -9,7 +9,7 @@
 - 🌐 Company website: [https://ex-ai.ru](http://voiceaio.online/)
 
 ## Contacts
-- 📧 Email: asgefes1@gmail.com
+- 📧 Email: ian.koltas@voiceaio.online
 - ✉️ Telegram: [@Asgef](https://t.me/Asgef)
 
 ## Statistics
