@@ -1,18 +1,16 @@
-# Hello, I'm Ivan Koltashev 👋
+# Hello, I'm Ian Koltas 👋
 
 ## About Me
 - 🎓 I am a graduate of the Hexlet educational platform, specializing in Backend Development.
 - 💻 My technical skills include Python 3, Object-Oriented Programming, working with Linux (CLI), basics of HTML/CSS, and Git.
 - 🌱 My goal is to constantly improve my skills and publish my projects on GitHub.
-- 🏢 I am currently working as a backend developer at **Эксперт Аудитор's**, a company focused on integrating AI technologies into various client-facing solutions — including voice agents, websites, chatbots, widgets, and telephony systems.
+- 🏢 I am currently working as a backend developer at **VoiceOAI**, a company focused on integrating AI technologies into various client-facing solutions — including voice agents, websites, chatbots, widgets, and telephony systems.
 - 🔗 Our GitHub organization: [EXAIEXAI on GitHub](https://github.com/EXAIEXAI)
 - 🌐 Company website: [https://ex-ai.ru](https://ex-ai.ru)
 
 ## Contacts
-- 📞 Tel: +7 911 638-44-35  — _Before the first phone contact, please reach out via messenger apps._
 - 📧 Email: asgefes1@gmail.com
 - ✉️ Telegram: [@Asgef](https://t.me/Asgef)
-- 🌐 My website or portfolio: [My Portfolio](https://asgef.github.io)
 
 ## Statistics
 [![wakatime](https://wakatime.com/badge/user/018c4031-c37e-4bef-9e6c-859fe4594dc2.svg)](https://wakatime.com/@018c4031-c37e-4bef-9e6c-859fe4594dc2)
