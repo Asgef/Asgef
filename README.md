@@ -5,8 +5,8 @@
 - 💻 My technical skills include Python 3, Object-Oriented Programming, working with Linux (CLI), basics of HTML/CSS, and Git.
 - 🌱 My goal is to constantly improve my skills and publish my projects on GitHub.
 - 🏢 I am currently working as a backend developer at **VoiceOAI**, a company focused on integrating AI technologies into various client-facing solutions — including voice agents, websites, chatbots, widgets, and telephony systems.
-- 🔗 Our GitHub organization: [EXAIEXAI on GitHub](https://github.com/EXAIEXAI)
-- 🌐 Company website: [https://ex-ai.ru](https://ex-ai.ru)
+- 🔗 Our GitHub organization: [EXAIEXAI on GitHub](https://github.com/VoiceOAI)
+- 🌐 Company website: [https://ex-ai.ru](http://voiceaio.online/)
 
 ## Contacts
 - 📧 Email: asgefes1@gmail.com
