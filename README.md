@@ -9,7 +9,7 @@
 - 🌐 Company website: [https://voiceaio.online](http://voiceaio.online/)
 
 ## Contacts
-- 📧 Email: ian.koltas@voiceaio.online
+- 📧 Email: asgefes1@gmail.com
 - ✉️ Telegram: [@Asgef](https://t.me/Asgef)
 
 ## Statistics
